@@ -15,5 +15,7 @@ A Python-based Port Status Checker that uses socket programming to determine whe
 ## Example
 
 Enter Host/IP Address: 8.8.8.8
+
 Enter Port Number: 80
+
 Port 80 is OPEN on google.com
